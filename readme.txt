@@ -3,11 +3,11 @@ just for test
 git for free
 
 11.11 is coming
-shanghai 
+just
 
 triple modified
 utf-8
-普陀区
+kidding
 
 git has a mutable index called stage
 
