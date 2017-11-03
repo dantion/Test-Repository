@@ -4,3 +4,7 @@ git for free
 
 11.11 is coming
 shanghai 
+
+triple modified
+utf-8
+普陀区
