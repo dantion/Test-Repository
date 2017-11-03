@@ -12,4 +12,3 @@ utf-8
 git has a mutable index called stage
 
 why what how
-take it esay
