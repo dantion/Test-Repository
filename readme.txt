@@ -14,9 +14,5 @@ git has a mutable index called stage
 why what how
 
 just convient
-<<<<<<< HEAD
-another branch test
-=======
 
-another branch test
->>>>>>> featurel
+listen music
